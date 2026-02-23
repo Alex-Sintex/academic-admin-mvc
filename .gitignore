@@ -1,0 +1,24 @@
+# Env
+.env
+
+# OS files
+.DS_Store
+
+# PHP session files
+*.log
+*.cache
+*.session
+
+# Composer vendor folder
+/vendor/
+
+# Node modules (if any)
+node_modules/
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.swp
