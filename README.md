@@ -34,6 +34,7 @@ This project follows a custom MVC (Model-View-Controller) structure:
 - Bootstrap
 - SweetAlert2
 - DataTables
+- PHPOffice
 
 ---
 
@@ -64,7 +65,6 @@ DB_PASS=your_password
 From the `public` directory:
 
 Then visit: http://localhost:8000
-
 
 ---
 
